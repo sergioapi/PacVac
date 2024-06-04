@@ -28,6 +28,3 @@ PATIENT_NAME|VACCINE_1;DOSES_VACCINE_1;MAX_DOSES_VACCINE_1;VACCINE_2;DOSES_VACCI
 ## Credits
 This project was developed as part of the Algorithms and Data Structures course by **Sergio Álvarez Piñón**.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
